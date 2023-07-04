@@ -1,7 +1,7 @@
 from discord.ext import commands
 import discord
 
-BotToken = "MTEyNTY3MDcxNjAwMDQzNjMwNQ.G-mG7s.hEGEjBYdpK35xbg5Ute-YQTqBgg0ws0fn-e7CE"
+BotToken = ""
 
 # Bot Creation
 intents = discord.Intents.default()
